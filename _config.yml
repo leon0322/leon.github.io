@@ -1,0 +1,9 @@
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page:num"
+markdown: rdiscount
+permalink: /:year/:month/:day/:title/
+url: https://leon.github.io
+author: nswebfrog
+highlighter: pygments
+exclude: ["Rakefile", "CNAME", "README.md"]
